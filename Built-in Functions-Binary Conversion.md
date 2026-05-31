@@ -10,8 +10,22 @@ To write a Python program to convert the number **16** into its **binary represe
 
 ## 🧾 Program
 
+# Step 1: Assign the value 16 to a variable
+a = 16
+
+# Step 2: Convert the number to binary using bin()
+binary_representation = bin(a)
+
+# Step 3: Print the result
+print("Binary representation of", a, "is", binary_representation)
 Add Code Here
 
 ## Output
+<img width="694" height="91" alt="image" src="https://github.com/user-attachments/assets/60cec1c7-e759-484a-b1d0-b2b8c99037c8" />
 
 ## Result
+Successfully wrote a Python program to convert the number 16 into its binary representation using built-in Python functions.
+
+Functions in Python: Modulo Calculator 🎯 Aim To write a Python program that defines a function which accepts two values and returns their modulo using the % operator.
+
+🧠 Algorithm Define a function called result that takes two arguments a and b. Inside the function, compute the modulo using a % b. Print the result of the modulo operation. Get two integer inputs from the user. Call the result function with the user-provided values. 🧾 Program Add code Here
